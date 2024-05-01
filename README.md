@@ -6,17 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!-- Project in comment -->
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Repository</title>
-  </head>
-
-  <body>
-    <h1>Model repository</h1>
-  </body>
-</html>
+<h1>Repository</h1>
+<h2>Project in comment</h2>
 
 <!---
 Lore-8/Lore-8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
