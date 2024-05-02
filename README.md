@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 <!-- Project in comment -->
 <h1>Repository</h1>
+<p>This project is about a repository in Github developing more than one language</p>
 <h2>Project in comment</h2>
 
 <!---
